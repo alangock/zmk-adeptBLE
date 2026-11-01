@@ -2,7 +2,7 @@ file_format: "1"
 id: AdeptBLE
 name: AdeptBLE
 type: shield
-url: https://github.com/taichan1113/mouse-test
+url: https://github.com/alangock/zmk-adeptBLE
 requires: [seeeduino_xiao_ble]
 features:
   - keys
