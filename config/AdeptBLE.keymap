@@ -44,7 +44,7 @@
       display-name = "Scroll-Momentary";
       bindings = <
         &to SCRLH &trans &trans &trans
-        &trans               &to SCRLH
+        &trans               &trans
       >;
     };
     scroll_hold_layer {
